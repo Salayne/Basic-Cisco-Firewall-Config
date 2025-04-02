@@ -14,8 +14,11 @@
 ![image alt](https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/4f0987e62f8df4e2c11c677a5269864169960583/Screenshot%202025-04-01%20224549.png)
 
 
+9. Next set up a PC and perform a ping test 
 
 ![image alt](https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/2380557fc29c484b40f75aeab844ddcf45fd1b8a/Screenshot%202025-04-01%20224837.png)
 
-![image alt]()
+**PING TEST**
+
+![image alt](https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/0a0c7f594829f63f814eb61c0c25450f83e45f2a/Screenshot%202025-04-01%20224930.png)
 
