@@ -13,3 +13,9 @@
 
 ![image alt](https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/4f0987e62f8df4e2c11c677a5269864169960583/Screenshot%202025-04-01%20224549.png)
 
+
+
+![image alt](https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/2380557fc29c484b40f75aeab844ddcf45fd1b8a/Screenshot%202025-04-01%20224837.png)
+
+![image alt]()
+
