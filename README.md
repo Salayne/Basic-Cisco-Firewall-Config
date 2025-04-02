@@ -27,9 +27,13 @@
 11. Use command **dhcpd address** - address plus the network name.
 12. Next configure the DNS(Domain Name Server) with the command **dhcps dns** plus address.
 13. Enable this with command **dhcpd enable** and the name of the network.
-14. Save this configuration with the command **wr mem** (write memory).
+
 
 ![image alt](https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/1432a8bedc5df40faccb2a0905f03afdaac6700f/Screenshot%202025-04-01%20225828.png)
+
+14. Save this configuration with the command **wr mem** (write memory).
+
+![image alt](https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/107bcf6d054364c931a6065c929c6354cf6536c8/Screenshot%202025-04-01%20230126.png)
 
 
 16. Switch pc 1 Ip configuration to dhcp and switch pc 2 to dhcp
