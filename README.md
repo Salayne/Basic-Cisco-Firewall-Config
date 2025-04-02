@@ -29,6 +29,8 @@
 13. Enable this with command **dhcpd enable** and the name of the network.
 14. Save this configuration with the command **wr mem** (write memory).
 
+![image alt](https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/1432a8bedc5df40faccb2a0905f03afdaac6700f/Screenshot%202025-04-01%20225828.png)
 
-15. Switch pc 1 Ip configuration to dhcp and switch pc 2 to dhcp
+
+16. Switch pc 1 Ip configuration to dhcp and switch pc 2 to dhcp
 
