@@ -38,3 +38,5 @@
 
 16. Switch pc 1 Ip configuration to dhcp and switch pc 2 to dhcp
 
+![image alt(https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/ef28aefb54f2431a06acfe6595564c35cea32931/Screenshot%202025-04-01%20230816.png)
+
