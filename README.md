@@ -22,3 +22,13 @@
 
 ![image alt](https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/0a0c7f594829f63f814eb61c0c25450f83e45f2a/Screenshot%202025-04-01%20224930.png)
 
+
+10. Configure the DCHP(Dynamic Host Configuration Protocol)  this system will helps devices connect to a network by assigning them IP addresses and other network settings.
+11. Use command **dhcpd address** - address plus the network name.
+12. Next configure the DNS(Domain Name Server) with the command **dhcps dns** plus address.
+13. Enable this with command **dhcpd enable** and the name of the network.
+14. Save this configuration with the command **wr mem** (write memory).
+
+
+15. Switch pc 1 Ip configuration to dhcp and switch pc 2 to dhcp
+
