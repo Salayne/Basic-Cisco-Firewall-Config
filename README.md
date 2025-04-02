@@ -1,5 +1,5 @@
-#H1 Basic-Cisco-Firewall-Config
-This is a basic firewall configuration in Cisco Packet tracer
+# Basic-Cisco-Firewall-Configuration
+
 
 1. ASA firewall , 2960 switch, 2 PC end devices
 2.go to firewall cli and use command en to enable no password
