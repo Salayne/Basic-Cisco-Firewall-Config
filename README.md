@@ -36,7 +36,7 @@
 ![image alt](https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/107bcf6d054364c931a6065c929c6354cf6536c8/Screenshot%202025-04-01%20230126.png)
 
 
-16. Switch pc 1 Ip configuration to dhcp and switch pc 2 to dhcp
+16. Switch PC1 and PC2's Ip configurations to dhcp. 
 
-![image alt(https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/ef28aefb54f2431a06acfe6595564c35cea32931/Screenshot%202025-04-01%20230816.png)
+![image alt](https://github.com/Salayne/Basic-Cisco-Firewall-Config/blob/ef28aefb54f2431a06acfe6595564c35cea32931/Screenshot%202025-04-01%20230816.png)
 
